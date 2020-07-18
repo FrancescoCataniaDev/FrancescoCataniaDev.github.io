@@ -8,11 +8,15 @@ I am a relieable, motivated and honest worker with good comunication skills and 
 
 ## __Skills__
 
+## __Projects__
+-[Academy Project, Treasure Hunters](https://github.com/TheSignAcademy/cu_treasurehunters)
+
 ### __Game Jams__
 - [AdventureGameJam 2020, A Strange Alchemy Adventure](https://gamejolt.com/games/a_strange_alchemy_adventure/493453)
 - [GlobalGameJam 2019 Pisa, Stick It Togheter](https://globalgamejam.org/2019/games/stick-it-together)
-- [GlobalGameJam 2020 Pisa, Neura-l-Ink](https://globalgamejam.org/2020/games/neura-l-ink-9?token=1595080965) | Download build
-### __Personal Projects__
+- [GlobalGameJam 2020 Pisa, Neura-l-Ink](https://globalgamejam.org/2020/games/neura-l-ink-9?token=1595080965) | [Download build](https://drive.google.com/file/d/1zcU7UA1eCsdPrAIsj_kH9Tsf2s7lPQHg/view?usp=sharing)
+- [GameProgrammingJam 2019, Escape Room](https://drive.google.com/file/d/1cbFKBWfCmqoHR7nT6m-rQAHIbRKyIWXs/view?usp=sharing)
+- [GameProgrammingJam 2020, Kamikaser](https://drive.google.com/file/d/1GHfLjFXZqk473L3Hb05zQDk2mDmgN10r/view?usp=sharing)
 
 ## __Personal Info__
 - Date of Birth: 10 January 1998
