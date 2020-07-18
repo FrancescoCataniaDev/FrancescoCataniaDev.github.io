@@ -9,7 +9,7 @@ I am a relieable, motivated and honest worker with good comunication skills and 
 ## __Skills__
 
 ### __Game Jams__
-
+- [AdventureGameJam 2020, A Strange Alchemy Adventure](https://gamejolt.com/games/a_strange_alchemy_adventure/493453)
 ### __Personal Projects__
 
 ## __Personal Info__
