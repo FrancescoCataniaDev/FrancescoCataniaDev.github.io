@@ -9,7 +9,7 @@ I am a relieable, motivated and honest worker with good comunication skills and 
 ## __Skills__
 
 ## __Projects__
--[Academy Project, Treasure Hunters](https://github.com/TheSignAcademy/cu_treasurehunters)
+-[Treasure Hunters](https://drive.google.com/file/d/1e6pwNQwdePJdiYZ2Bs76ZpwPJxVbepj6/view?usp=sharing)
 
 ### __Game Jams__
 - [AdventureGameJam 2020, A Strange Alchemy Adventure](https://gamejolt.com/games/a_strange_alchemy_adventure/493453)
