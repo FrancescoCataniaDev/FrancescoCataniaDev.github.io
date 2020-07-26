@@ -30,6 +30,6 @@ My favorite branch of programming is Gameplay Programming, followed by Tools and
 ## __Personal Info__
 - Date of Birth: 10 January 1998
 - e-mail: catania.francesco.dev[at]outlook.it
-- [LinkedIn](www.linkedin.com/in/francescocataniadev)
+- [LinkedIn](www.linkedin.com/in/francescocataniadev/)
 - [GitLab](https://gitlab.com/FocaccinaMan)
 - [GitHub](https://github.com/FrancescoCataniaDev)
