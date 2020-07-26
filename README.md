@@ -17,7 +17,7 @@ My favorite branch of programming is Gameplay Programming, followed by Tools and
 - AI  		         ![](star.png) ![](star.png) ![](star.png) (WIP)
 - English          ![](star.png) ![](star.png) ![](star.png)
 
-## __Projects__
+## __Academy Projects__
 -[Treasure Hunters](https://drive.google.com/file/d/1e6pwNQwdePJdiYZ2Bs76ZpwPJxVbepj6/view?usp=sharing)
 
 ### __Game Jams__
@@ -30,6 +30,6 @@ My favorite branch of programming is Gameplay Programming, followed by Tools and
 ## __Personal Info__
 - Date of Birth: 10 January 1998
 - e-mail: catania.francesco.dev[at]outlook.it
-- [LinkedIn](www.linkedin.com/in/francescocataniadev/)
+- [LinkedIn](www.linkedin.com/in/francescocataniadev)
 - [GitLab](https://gitlab.com/FocaccinaMan)
 - [GitHub](https://github.com/FrancescoCataniaDev)
