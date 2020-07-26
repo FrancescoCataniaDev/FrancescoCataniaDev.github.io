@@ -1,12 +1,21 @@
 # Francesco Catania
 
+![](francesco_catania.png)
+
 ## __About me__
 Hallo, I am Francesco Catania. I’m 22 years old and I live in Italy, Florence.
 Currently I attend the Game Programming Course at TheSign Academy in Florence,  which I will end this year. 
 
 I am a relieable, motivated and honest worker with good comunication skills and a great passion on video-games, which is the main reason because I decided to start this journey into Game Development.
 
+My favorite branch of programming is Gameplay Programming, followed by Tools and UI.
+
 ## __Skills__
+- Teamwork	   ![](star.png) ![](star.png) ![](star.png) ![](star.png) ![](star.png)
+- Problem Solving  ![](star.png) ![](star.png) ![](star.png) ![](star.png)
+- Programming 	   ![](star.png) ![](star.png) ![](star.png) ![](star.png)
+- AI  		   ![](star.png) ![](star.png) ![](star.png) (WIP)
+- English          ![](star.png) ![](star.png) ![](star.png)
 
 ## __Projects__
 -[Treasure Hunters](https://drive.google.com/file/d/1e6pwNQwdePJdiYZ2Bs76ZpwPJxVbepj6/view?usp=sharing)
