@@ -21,7 +21,7 @@ My favorite branch of programming is Gameplay Programming, followed by Tools and
 -[Treasure Hunters](https://drive.google.com/file/d/1e6pwNQwdePJdiYZ2Bs76ZpwPJxVbepj6/view?usp=sharing)
 
 ### __Game Jams__
-- [AdventureGameJam 2020, A Strange Alchemy Adventure](https://gamejolt.com/games/a_strange_alchemy_adventure/493453)
+- [AdventureGameJam 2020, A Strange Alchemy Adventure](https://gamejolt.com/games/a_strange_alchemy_adventure/493453) | [Project](https://gitlab.com/FocaccinaMan/adventurejam2020)
 - [GlobalGameJam 2019 Pisa, Stick It Togheter](https://globalgamejam.org/2019/games/stick-it-together)
 - [GlobalGameJam 2020 Pisa, Neura-l-Ink](https://globalgamejam.org/2020/games/neura-l-ink-9?token=1595080965) | [Download build](https://drive.google.com/file/d/1zcU7UA1eCsdPrAIsj_kH9Tsf2s7lPQHg/view?usp=sharing)
 - [GameProgrammingJam 2019, Escape Room](https://drive.google.com/file/d/1cbFKBWfCmqoHR7nT6m-rQAHIbRKyIWXs/view?usp=sharing)
