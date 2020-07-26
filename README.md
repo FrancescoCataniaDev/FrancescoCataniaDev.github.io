@@ -11,10 +11,10 @@ I am a relieable, motivated and honest worker with good comunication skills and 
 My favorite branch of programming is Gameplay Programming, followed by Tools and UI.
 
 ## __Skills__
-- Teamwork	   ![](star.png) ![](star.png) ![](star.png) ![](star.png) ![](star.png)
+- Teamwork	       ![](star.png) ![](star.png) ![](star.png) ![](star.png) ![](star.png)
 - Problem Solving  ![](star.png) ![](star.png) ![](star.png) ![](star.png)
 - Programming 	   ![](star.png) ![](star.png) ![](star.png) ![](star.png)
-- AI  		   ![](star.png) ![](star.png) ![](star.png) (WIP)
+- AI  		         ![](star.png) ![](star.png) ![](star.png) (WIP)
 - English          ![](star.png) ![](star.png) ![](star.png)
 
 ## __Projects__
@@ -31,5 +31,5 @@ My favorite branch of programming is Gameplay Programming, followed by Tools and
 - Date of Birth: 10 January 1998
 - e-mail: catania.francesco.dev[at]outlook.it
 - [LinkedIn](www.linkedin.com/in/francesco-catania-dev)
-- [GitLab]()
-- [GitHub]()
+- [GitLab](https://gitlab.com/FocaccinaMan)
+- [GitHub](https://github.com/FrancescoCataniaDev)
