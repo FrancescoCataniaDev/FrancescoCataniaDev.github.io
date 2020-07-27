@@ -6,7 +6,7 @@
 Hallo, I am Francesco Catania. I’m 22 years old and I live in Italy, Florence.
 Currently I attend the Game Programming Course at TheSign Academy in Florence,  which I will end this year. 
 
-I am a relieable, motivated and honest worker with good comunication skills and a great passion on video-games, which is the main reason because I decided to start this journey into Game Development.
+I am a reliable, motivated and honest worker with good comunication skills and a great passion on video-games, which is the main reason because I decided to start this journey into Game Development.
 
 My favorite branch of programming is Gameplay Programming, followed by Tools and UI.
 
