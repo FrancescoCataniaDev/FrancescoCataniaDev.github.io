@@ -11,7 +11,7 @@ I am a reliable, motivated and honest worker with good comunication skills and a
 My favorite branch of programming is Gameplay Programming, followed by Tools and UI.
 
 ## __Academy Projects__
-- |[Treasure Hunters](https://drive.google.com/file/d/1GbkLQ7R8dJdG-pEGe4M1SnDQR-x6Q1Bd/view?usp=sharing)|
+ |[Treasure Hunters](https://drive.google.com/file/d/1GbkLQ7R8dJdG-pEGe4M1SnDQR-x6Q1Bd/view?usp=sharing)|
 
 ## __Game Jams__
 - |[AdventureGameJam 2020, A Strange Alchemy Adventure](https://gamejolt.com/games/a_strange_alchemy_adventure/493453) | [Project](https://gitlab.com/FocaccinaMan/adventurejam2020)|
