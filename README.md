@@ -1,6 +1,6 @@
 # Francesco Catania
 
-![](francesco_catania.png)
+![](francesco_catania.jpeg)
 
 ## __About me__
 Hallo, I am Francesco Catania. I’m 22 years old and I live in Florence, Italy.
