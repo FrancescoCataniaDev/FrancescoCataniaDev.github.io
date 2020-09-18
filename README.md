@@ -10,7 +10,7 @@ I am a reliable, motivated and honest worker with good comunication skills and a
 
 I'm planning to learn German and I‘m ready to learn new languages if it's required.
 
-My favorite branch of programming is Gameplay Programming, followed by Tools and UI.
+My favorite branch game of programming is Gameplay Programming, followed by Tools and UI.
 
 ## __Academy Projects__
  [Treasure Hunters](https://drive.google.com/file/d/1GbkLQ7R8dJdG-pEGe4M1SnDQR-x6Q1Bd/view?usp=sharing)
