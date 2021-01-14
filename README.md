@@ -8,7 +8,7 @@ I finished the the Game Programming Course at TheSign Academy in Florence.
 
 I am a reliable, motivated and honest worker with good comunication skills and a great passion for video-games, which is the main reason why I decided to start this journey into Game Development.
 
-I'm planning to learn German and I‘m ready to learn new languages if it's required.
+I started learning German and I‘m ready to learn new languages if it's required.
 
 My favorite branch game of programming is Gameplay Programming, followed by Tools and UI.
 
