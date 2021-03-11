@@ -4,7 +4,7 @@
 
 ## __About me__
 Hallo, I am Francesco Catania. I’m 23 years old and I live in Tübingen, Germany.
-I finished the the Game Programming Course at TheSign Academy in Florence. 
+I finished the Event Horizon's Game Programming Course at TheSign Comics & Arts Academy in Florence. 
 
 I am a reliable, motivated and honest worker with good comunication skills and a great passion for video-games, which is the main reason why I decided to start this journey into Game Development.
 
